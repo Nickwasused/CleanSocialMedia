@@ -1,0 +1,8 @@
+www.twitch.tv##div.tw-mg-r-1:nth-of-type(1) > .tw-flex.tw-align-items-center
+www.twitch.tv##.tw-mg-r-1.tw-inline-flex.tw-c-text-live > .tw-inline-flex.tw-tooltip-wrapper
+www.twitch.tv##.tw-mg-l-05 > .tw-font-size-6.tw-c-text-alt
+www.twitch.tv##.live-channel-card > .tw-mg-0.tw-flex-column.tw-flex > .tw-mg-t-1.tw-item-order-2 > .tw-flex-nowrap.tw-flex > .tw-media-card-meta__text-container.tw-item-order-2.tw-full-width.tw-flex-shrink-1.tw-flex-grow-1 > .tw-full-width.tw-flex-shrink-1.tw-flex-grow-1 > .tw-mg-t-05 > .tw-inline-block.tw-full-width
+www.twitch.tv##div.side-nav-section:nth-of-type(2)
+www.twitch.tv##.tw-relative.tw-pd-1.tw-elevation-4.tw-c-text-overlay.tw-c-background-accent.tw-border-radius-medium
+www.twitch.tv##.tw-z-default.channel-leaderboard
+www.twitch.tv##.tw-inline-block.tw-full-width
