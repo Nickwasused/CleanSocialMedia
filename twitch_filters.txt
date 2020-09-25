@@ -6,3 +6,27 @@ www.twitch.tv##div.side-nav-section:nth-of-type(2)
 www.twitch.tv##.tw-relative.tw-pd-1.tw-elevation-4.tw-c-text-overlay.tw-c-background-accent.tw-border-radius-medium
 www.twitch.tv##.tw-z-default.channel-leaderboard
 www.twitch.tv##.tw-inline-block.tw-full-width
+www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(4)
+www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(5)
+www.twitch.tv##.tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-core-button--secondary.tw-core-button.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+www.twitch.tv##.tw-pd-1.tw-border-t.side-nav-search-input
+www.twitch.tv##.tw-pd-05.tw-inline-flex.tw-animated-glitch-logo
+www.twitch.tv##.tw-inline-flex > div > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+
+#Prime Stuff
+www.twitch.tv##.prime-offers__pill
+www.twitch.tv##.tw-pd-1 > .tw-align-center
+
+#Livestream Pannels
+www.twitch.tv##.channel-panels-container
+www.twitch.tv##.channel-panels
+www.twitch.tv##.tw-tooltip-wrapper.tw-relative > .tw-pd-x-05.tw-flex.tw-c-text-overlay.tw-c-background-overlay.tw-border-radius-small
+
+#Video views
+www.twitch.tv##a:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)
+www.twitch.tv##div.tw-mg-b-2:nth-child(26) > div:nth-child(1) > article:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(5) > a:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > div:nth-child(1)
+www.twitch.tv##div:nth-child(1) > article:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(5) > a:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2)
+www.twitch.tv##a:nth-child(1) > div:nth-child(1) > div:nth-child(3) > span:nth-child(4)
+
+#Follower Numbers
+www.twitch.tv##.tw-align-self-center > .tw-font-size-5.tw-c-text-alt
