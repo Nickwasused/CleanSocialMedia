@@ -2,6 +2,7 @@
 uBlock Filters for www.twitch.tv
 
 ## Features
+### Twitch
 - hiding viewer Numbers
 - hiding Leaderboard
 - hide recommended Streams (Sidebar only)
@@ -13,3 +14,10 @@ uBlock Filters for www.twitch.tv
 - hide follower number
 - hide video views
 - hide clip views
+
+### Youtube
+- hiding view numbers
+- hiding subscriber numbers
+- hiding youtube logo
+- cleaning sidebar
+- hide like number
