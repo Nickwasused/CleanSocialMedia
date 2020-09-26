@@ -1,0 +1,23 @@
+#Views
+www.youtube.com###metadata-line > span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##.yt-view-count-renderer.style-scope.view-count
+www.youtube.com###dot
+www.youtube.com##yt-formatted-string.ytd-playlist-sidebar-primary-info-renderer.style-scope:nth-of-type(2)
+
+#Clean Sidebar
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###vat-notice
+www.youtube.com###copyright
+www.youtube.com###logo
+
+#Sub Numbers
+www.youtube.com###owner-sub-count
+www.youtube.com###vote-count-middle
+www.youtube.com###metadata-line > span.ytd-video-meta-block.style-scope:nth-of-type(1)
+
+#Like Number
+www.youtube.com###yt-formatted-string.style-text:nth-child(2)
+www.youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-watch-flexy.style-scope.ytd-page-manager.hide-skeleton div#columns.style-scope.ytd-watch-flexy div#primary.style-scope.ytd-watch-flexy div#primary-inner.style-scope.ytd-watch-flexy div#info.style-scope.ytd-watch-flexy div#info-contents.style-scope.ytd-watch-flexy ytd-video-primary-info-renderer.style-scope.ytd-watch-flexy div#container.style-scope.ytd-video-primary-info-renderer div#info.style-scope.ytd-video-primary-info-renderer div#menu-container.style-scope.ytd-video-primary-info-renderer div#menu.style-scope.ytd-video-primary-info-renderer ytd-menu-renderer.style-scope.ytd-video-primary-info-renderer div#top-level-buttons.style-scope.ytd-menu-renderer ytd-toggle-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-text a.yt-simple-endpoint.style-scope.ytd-toggle-button-renderer yt-formatted-string#text.style-scope.ytd-toggle-button-renderer.style-text
+www.youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-watch-flexy.style-scope.ytd-page-manager.hide-skeleton div#columns.style-scope.ytd-watch-flexy div#primary.style-scope.ytd-watch-flexy div#primary-inner.style-scope.ytd-watch-flexy div#info.style-scope.ytd-watch-flexy div#info-contents.style-scope.ytd-watch-flexy ytd-video-primary-info-renderer.style-scope.ytd-watch-flexy div#container.style-scope.ytd-video-primary-info-renderer div#info.style-scope.ytd-video-primary-info-renderer div#menu-container.style-scope.ytd-video-primary-info-renderer div#menu.style-scope.ytd-video-primary-info-renderer ytd-menu-renderer.style-scope.ytd-video-primary-info-renderer div#top-level-buttons.style-scope.ytd-menu-renderer ytd-toggle-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-default-active a.yt-simple-endpoint.style-scope.ytd-toggle-button-renderer yt-formatted-string#text.style-scope.ytd-toggle-button-renderer.style-default-active
